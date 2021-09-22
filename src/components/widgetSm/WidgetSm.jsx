@@ -14,7 +14,7 @@ const WidgetSm = () => {
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername">Anna Keller</span>
+            <span className="widgetSmUsername">Tom Keller</span>
             <span className="widgetSmJobTitle">Frontend Developer</span>
           </div>
           <button className="widgetSmButton">
@@ -29,7 +29,7 @@ const WidgetSm = () => {
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername">Anna Keller</span>
+            <span className="widgetSmUsername">Tom Keller</span>
             <span className="widgetSmJobTitle">Frontend Developer</span>
           </div>
           <button className="widgetSmButton">
@@ -44,7 +44,7 @@ const WidgetSm = () => {
             className="widgetSmImg"
           />
           <div className="widgetSmUser">
-            <span className="widgetSmUsername">Anna Keller</span>
+            <span className="widgetSmUsername">Tom Keller</span>
             <span className="widgetSmJobTitle">Frontend Developer</span>
           </div>
           <button className="widgetSmButton">
